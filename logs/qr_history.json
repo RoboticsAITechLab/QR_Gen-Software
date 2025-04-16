@@ -1,0 +1,46 @@
+[
+    {
+        "timestamp": "2025-04-15 16:19:04",
+        "qr_type": "URL/Plain Text",
+        "payload": "fdgbnbn",
+        "qr_color": "#000000",
+        "box_size": 200,
+        "border": 4,
+        "watermark": true,
+        "logo_path": "assets/logo_1744714002.png",
+        "output_path": "assets/qr_1744714144.png"
+    },
+    {
+        "timestamp": "2025-04-15 16:19:05",
+        "qr_type": "URL/Plain Text",
+        "payload": "fdgbnbn",
+        "qr_color": "#000000",
+        "box_size": 200,
+        "border": 4,
+        "watermark": true,
+        "logo_path": "assets/logo_1744714002.png",
+        "output_path": "assets/qr_1744714145.png"
+    },
+    {
+        "timestamp": "2025-04-15 16:19:29",
+        "qr_type": "vCard Contact",
+        "payload": "BEGIN:VCARD\nVERSION:3.0\nN:dfasf\nTEL:54646346\nEMAIL:dgdsfg\nADR:sdgfsdgf\nEND:VCARD",
+        "qr_color": "#000000",
+        "box_size": 200,
+        "border": 4,
+        "watermark": true,
+        "logo_path": "assets/logo_1744714002.png",
+        "output_path": "assets/qr_1744714169.png"
+    },
+    {
+        "timestamp": "2025-04-15 16:24:10",
+        "qr_type": "URL/Plain Text",
+        "payload": "fddsf",
+        "qr_color": "#69d89b",
+        "box_size": 10,
+        "border": 4,
+        "watermark": true,
+        "logo_path": null,
+        "output_path": "assets/qr_1744714450.png"
+    }
+]
